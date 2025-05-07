@@ -1,6 +1,5 @@
 import styled from '@emotion/styled';
 import { useState, useEffect } from 'react';
-import React from 'react';
 
 const Container = styled.div`
   min-height: 100vh;
